@@ -8,29 +8,34 @@ It looks like this :
 You can directly download the apk file and run it.
 The apk file is uploaded in the repo.
 
+Before you begin
 
-Introduction
+In this codelab, you will add dice images to your existing Dice Roller Android app. Be sure to complete the earlier codelab on building the foundation of the Dice Roller app first.
 
-In this codelab, you will build a simple Android app that displays text. You will be able to position the text on the screen by understanding more about User Interface (UI) components in Android.
+Instead of displaying the value of the dice roll in a TextView, your app will display the appropriate dice image for the number of sides that was rolled. It will be a much more visual and enhanced user experience for your app.
+
+![image](https://user-images.githubusercontent.com/104893913/179935995-ca9d48bf-56cf-433b-8a65-698c5ab78a3c.png)
+
+You will be provided with a link to download the dice images, and you will add them as resources in your app. To write code for which dice image to use, you will be using a when statement in Kotlin.
 
 Prerequisites
 
-How to create a new app in Android Studio.
-How to run an app in the emulator or on your Android device.
+Completed the Create an interactive Dice Roller app codelab.
+Able to write control flow statements (if / else, when statements).
+Able to update the UI of the app based on user input (modifying the MainActivity.kt file).
+Able to add a click listener to a Button.
+Able to add image resources to an Android app.
 
-What you will learn
+What you'll learn
 
-What are user interface elements, such as Views and ViewGroups.
-How to display text in a TextView in an app.
-How to set attributes, such as text, font, and margin on a TextView.
+How to update an ImageView while the app is running.
+How to customize your app behavior based on different conditions (using a when statement).
 
-What you will build
+What you'll build
 
-An Android app that displays a birthday greeting in text format.
-This is what your app will look like when you're done.
-
-![image](https://user-images.githubusercontent.com/104893913/179932190-45595ce6-0e7d-44f7-a5a4-09edc9c16e22.png)
+Dice Roller Android app that has a Button to roll a dice and update the image on the screen.
 
 What you need
 
 A computer with Android Studio installed.
+Internet connection to download the dice images.
