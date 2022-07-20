@@ -7,3 +7,23 @@ It looks like this :
 
 You can directly download the apk file and run it.
 The apk file is uploaded in the repo.
+
+
+1. Introduction
+In this codelab, you will build a simple Android app that displays text. You will be able to position the text on the screen by understanding more about User Interface (UI) components in Android.
+
+Prerequisites
+How to create a new app in Android Studio.
+How to run an app in the emulator or on your Android device.
+What you will learn
+What are user interface elements, such as Views and ViewGroups.
+How to display text in a TextView in an app.
+How to set attributes, such as text, font, and margin on a TextView.
+What you will build
+An Android app that displays a birthday greeting in text format.
+This is what your app will look like when you're done.
+
+![image](https://user-images.githubusercontent.com/104893913/179932190-45595ce6-0e7d-44f7-a5a4-09edc9c16e22.png)
+
+What you need
+A computer with Android Studio installed.
